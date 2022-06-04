@@ -33,7 +33,7 @@
 
 ## 鸣谢
 
-[![contributors](https://opencollective.com/The-scientific-guide-to-effective-learning/contributors.svg?width=890)](https://github.com/CALMCRAZY/The-scientific-guide-to-effective-learning/graphs/contributors)
+[![contributors](https://avatars.githubusercontent.com/u/106364401?s=60&v=4)](https://github.com/CALMCRAZY/The-scientific-guide-to-effective-learning/graphs/contributors)
 
 ## Star 历史
 
