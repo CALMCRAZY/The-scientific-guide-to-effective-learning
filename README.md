@@ -31,10 +31,6 @@
 - [助学工具/知犀思维导图](助学工具/知犀思维导图.md)
 - [思想信念/神经可塑性](https://github.com/CALMCRAZY/The-scientific-guide-to-effective-learning/blob/main/%E6%80%9D%E6%83%B3%E4%BF%A1%E5%BF%B5.md#%E7%A5%9E%E7%BB%8F%E5%8F%AF%E5%A1%91%E6%80%A7)
 
-## 鸣谢
-
-[![contributors](https://avatars.githubusercontent.com/u/106364401?s=60&v=4)](https://github.com/CALMCRAZY/The-scientific-guide-to-effective-learning/graphs/contributors)
-
 ## Star 历史
 
 [![Star History Chart](https://api.star-history.com/svg?repos=CALMCRAZY/The-scientific-guide-to-effective-learning&type=Date)](https://star-history.com/#CALMCRAZY/The-scientific-guide-to-effective-learning&Date)
