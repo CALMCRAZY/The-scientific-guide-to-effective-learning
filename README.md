@@ -14,7 +14,7 @@
 ## 近期更新
 
 - [04助学工具/知犀思维导图](04助学工具/知犀思维导图.md)
-- [01思想信念/神经可塑性](https://github.com/CALMCRAZY/The-scientific-guide-to-effective-learning/blob/main/%E6%80%9D%E6%83%B3%E4%BF%A1%E5%BF%B5.md#%E7%A5%9E%E7%BB%8F%E5%8F%AF%E5%A1%91%E6%80%A7)
+- [01思想信念/神经可塑性](https://github.com/CALMCRAZY/The-scientific-guide-to-effective-learning/blob/main/01%E6%80%9D%E6%83%B3%E4%BF%A1%E5%BF%B5.md#%E7%A5%9E%E7%BB%8F%E5%8F%AF%E5%A1%91%E6%80%A7)
 
 ## 欢迎补充分享
 
