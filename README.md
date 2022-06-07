@@ -11,6 +11,11 @@
 - [运用经历](运用经历)
 - [思维导图](高效学习科学指南.png)
 
+## 近期更新
+
+- [助学工具/知犀思维导图](助学工具/知犀思维导图.md)
+- [思想信念/神经可塑性](https://github.com/CALMCRAZY/The-scientific-guide-to-effective-learning/blob/main/%E6%80%9D%E6%83%B3%E4%BF%A1%E5%BF%B5.md#%E7%A5%9E%E7%BB%8F%E5%8F%AF%E5%A1%91%E6%80%A7)
+
 ## 欢迎补充分享
 
 欢迎大家通过提交Pull Request补充与时俱进的高效学习相关科学理论、方法及工具（须有可溯源科学依据），也欢迎大家分享自身学习运用本指南自我提升的经历，共同创建全球最先进、最实用、最丰富的高效学习科学指南，帮助更多好学者。
@@ -22,13 +27,6 @@
   - 提交好之后点击左下角 Commit 并等待 Actions 检查，请在检查通过后在自己的首页上点击 Contribute 后点击下方的 Open Pull Request。
 
 - 本地：请先安装`npm`，后续操作[见文章](https://chinese.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github/)。
-
-提交B站等国内平台的视频和文章链接请移除追踪参数,详细要求[见此](CodeOfConduct.md)。
-
-## 近期更新
-
-- [助学工具/知犀思维导图](助学工具/知犀思维导图.md)
-- [思想信念/神经可塑性](https://github.com/CALMCRAZY/The-scientific-guide-to-effective-learning/blob/main/%E6%80%9D%E6%83%B3%E4%BF%A1%E5%BF%B5.md#%E7%A5%9E%E7%BB%8F%E5%8F%AF%E5%A1%91%E6%80%A7)
 
 ## 我为什么编撰高效学习科学指南？
 
