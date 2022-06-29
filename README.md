@@ -12,7 +12,7 @@
 - [06运用经历](06运用经历)
 
 ## 近期更新
-
+- [01思想信念/习惯养成](https://github.com/CALMCRAZY/The-scientific-guide-to-effective-learning/blob/main/01%E6%80%9D%E6%83%B3%E4%BF%A1%E5%BF%B5.md#%E4%B9%A0%E6%83%AF%E5%85%BB%E6%88%90)
 - [03学习方法/利用大脑奖励系统](https://www.bilibili.com/video/BV1j34y1m7kk?spm_id_from=333.337.search-card.all.click&vd_source=4e555e6f43c6994fb0246eacaca5f544)
 - [04助学工具/知犀思维导图](04助学工具/知犀思维导图.md)
 - [01思想信念/神经可塑性](https://github.com/CALMCRAZY/The-scientific-guide-to-effective-learning/blob/main/01%E6%80%9D%E6%83%B3%E4%BF%A1%E5%BF%B5.md#%E7%A5%9E%E7%BB%8F%E5%8F%AF%E5%A1%91%E6%80%A7)
