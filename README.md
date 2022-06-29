@@ -13,7 +13,7 @@
 
 ## 近期更新
 
-- [利用大脑奖励系统](https://github.com/CALMCRAZY/The-scientific-guide-to-effective-learning/blob/main/03%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.md#%E5%88%A9%E7%94%A8%E5%A4%A7%E8%84%91%E5%A5%96%E5%8A%B1%E7%B3%BB%E7%BB%9F)
+- [03学习方法/利用大脑奖励系统](https://github.com/CALMCRAZY/The-scientific-guide-to-effective-learning/blob/main/03%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.md#%E5%88%A9%E7%94%A8%E5%A4%A7%E8%84%91%E5%A5%96%E5%8A%B1%E7%B3%BB%E7%BB%9F)
 - [04助学工具/知犀思维导图](04助学工具/知犀思维导图.md)
 - [01思想信念/神经可塑性](https://github.com/CALMCRAZY/The-scientific-guide-to-effective-learning/blob/main/01%E6%80%9D%E6%83%B3%E4%BF%A1%E5%BF%B5.md#%E7%A5%9E%E7%BB%8F%E5%8F%AF%E5%A1%91%E6%80%A7)
 
