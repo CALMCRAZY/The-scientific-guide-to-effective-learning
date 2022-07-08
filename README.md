@@ -13,6 +13,7 @@
 
 ## 近期更新
 
+- [05思维导图/记忆术模板](05思维导图/记忆术模板.md)
 - [06运用经历/实践](06运用经历/实践.md)
 - [02身体健康/冥想](https://github.com/CALMCRAZY/The-scientific-guide-to-effective-learning/blob/main/02%E8%BA%AB%E4%BD%93%E5%81%A5%E5%BA%B7.md#%E5%86%A5%E6%83%B3)
 - [01思想信念/习惯养成](https://github.com/CALMCRAZY/The-scientific-guide-to-effective-learning/blob/main/01%E6%80%9D%E6%83%B3%E4%BF%A1%E5%BF%B5.md#%E4%B9%A0%E6%83%AF%E5%85%BB%E6%88%90)
